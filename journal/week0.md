@@ -10,3 +10,6 @@ Link to Proof: https://lucid.app/lucidchart/62369706-7660-41ce-b7bd-a1b3d38ee96a
 ### 3. Creating Budget
 #### I created my budget of 1usd and monthly cost budget
 ![image](https://user-images.githubusercontent.com/94593936/219877203-c58df982-b70f-48d2-abfa-e4f26e24ae55.png)
+### 3. Creating Billing Alarm
+#### I created Billing Alarm of estimatedCharges >= 10 for 1 datapoints within 6 hours
+![image](https://user-images.githubusercontent.com/94593936/219899234-6be2e9f1-150f-4f36-af58-ca08bb493d97.png)
