@@ -8,5 +8,5 @@ Link to Proof: https://lucid.app/lucidchart/550a029f-e167-4ec8-b7c4-a6751ed177d1
 ![Logical Design](https://user-images.githubusercontent.com/94593936/219876828-12828c5d-d31f-4829-b879-457e94c970ab.jpeg)
 Link to Proof: https://lucid.app/lucidchart/62369706-7660-41ce-b7bd-a1b3d38ee96a/edit?viewport_loc=-1091%2C-331%2C4096%2C1528%2C0_0&invitationId=inv_a3393d22-fbc4-4da4-984c-4b9dc63d883c
 ### 3. Creating Budget
-#### I created my budget of 1usd
+#### I created my budget of 1usd and monthly cost budget
 ![image](https://user-images.githubusercontent.com/94593936/219877203-c58df982-b70f-48d2-abfa-e4f26e24ae55.png)
